@@ -24,6 +24,7 @@ module.exports = {
                 black: '#191A23',
                 grey: '#F3F3F3',
                 white: '#fff',
+                lightBlack: '#292A32',
             },
             borderRadius: {
                 'xl-custom': '45px',
