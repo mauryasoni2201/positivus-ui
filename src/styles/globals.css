@@ -171,7 +171,7 @@ p,
     @apply py-4 md:py-5 px-7 md:px-8 text-lg md:text-xl text-white bg-black rounded-lg md:rounded-xl transition-all duration-400 ease-in-out border border-black font-normal hover:text-black hover:bg-white text-center;
 }
 .btn.btn-primary {
-    @apply bg-primary text-white hover:bg-white border border-primary hover:text-primary;
+    @apply bg-primary text-black hover:bg-white border border-black;
 }
 .btn.btn-secondary {
     @apply bg-white text-black hover:bg-black border border-black hover:text-white;
